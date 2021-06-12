@@ -8,15 +8,6 @@
   cursor: context-menu;
 }
 
-.section__button--lightseagreen.section__button--lightseagreen  {
-  background-color: hsl(177, 70%, 41%);
-  color:hsl(0, 0%, 100%);
-}
-
-.section__button--lightseagreen.section__button--lightseagreen:hover  {
-  background-color: hsl(177, 70%, 46%);
-}
-
 .section__button:hover {
   background-color: hsl(0, 0%, 93%);
 }
@@ -37,14 +28,14 @@
 .sectionHeaderIMG {
   border-radius: 50%;
   width: 150px;
-  border: 6px solid hsl(0, 0%, 100%);
+  border: 6px solid hsl(203, 92%, 55%);
   margin-top: 15px;
   margin-bottom: 0;
-  box-shadow: 3px 3px 15px hsl(0, 0%, 100%); 
+  box-shadow: 3px 3px 15px hsl(203, 92%, 55%); 
 }
 
 .sectionHeaderH1 {
-  color: hsl(0, 0%, 100%);
+  color: hsl(203, 92%, 75%);
   font-size: 33px;
   cursor: context-menu;
 }
@@ -56,5 +47,5 @@
 }
 
 .section__header, .section__paragraph {
-  color: hsl(210, 14%, 63%);
+  color: hsl(203, 92%, 75%);
 }

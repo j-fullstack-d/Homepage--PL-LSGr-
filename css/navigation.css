@@ -1,5 +1,5 @@
 .nav {
-  background-color: hsl(210, 13%, 55%);
+  background-color: hsl(177, 70%, 46%);
 }
 
 .navUL {
@@ -20,7 +20,7 @@
 }
 
 .navLinkLI:hover {
-  background-color: hsl(210, 13%, 60%);
+  background-color: hsl(177, 70%, 51%);
 }
 
 .navLinkLI--border-bottom {
